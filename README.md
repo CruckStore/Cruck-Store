@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @CruckStore
+- - 📫 How to contact me --> Discord: gtol
+- 💞️ We're looking for a mapper and a full-stack developer 
+- ⚡ Our Website (store): https://cruck.store
