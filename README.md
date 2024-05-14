@@ -4,8 +4,7 @@
 
 
 Our Discord Here
-- (Discord.gg/cruckstore)[https://discord.gg/cruckstore]
-
+- [Discord - CruckStore](https://discord.gg/cruckstore)
 
 - 💞️ We're looking for a mapper and a full-stack developer 
 - ⚡ Our Website (store): https://cruck.store
