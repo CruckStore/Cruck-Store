@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, We are @CruckStore</h1>
 
-<a href="<https://discord.com/users/746700907248484393>">
+<a href="https://discord.com/users/746700907248484393">
   <img src="https://lanyard.cnrad.dev/api/746700907248484393?hideTimestamp=true&idleMessage=Sleeping" align="right" />
 </a>
 
