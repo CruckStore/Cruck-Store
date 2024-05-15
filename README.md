@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, We are @CruckStore</h1>
 
+<a href="<https://discord.com/users/746700907248484393>">
+  <img src="https://lanyard.cnrad.dev/api/420265973640331284?hideTimestamp=true&idleMessage=Sleeping" align="right" />
+</a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CruckStore&label=Profile%20views&color=0e75b6&style=flat" alt="sertivs" /> </p>
 
 <h3 align="left">Our WebSite:</h3>
