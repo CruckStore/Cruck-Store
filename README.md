@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, We are @CruckStore</h1>
 
 <p align="left"> 
-  <a href="https://discord.gg/cruckstore" rel="nofollow"><img src="https://img.shields.io/discord/799587629779517471?color=success&label=Discord&style=flat-square"  style="max-width:100%;"></a>
+  <a href="https://discord.gg/cruckstore" rel="nofollow"><img src="https://img.shields.io/discord/925836113065705552?color=success&label=Discord&style=flat-square"  style="max-width:100%;"></a>
   <img src="https://komarev.com/ghpvc/?username=CruckStore&label=Profile%20views&color=0e75b6&style=flat" alt="cruck store view profils" />
 </p>
 
