@@ -6,16 +6,25 @@
 </p>
 
 <a href="https://discord.com/users/746700907248484393">
-  <img src="https://lanyard.cnrad.dev/api/746700907248484393?hideTimestamp=true&idleMessage=Stream Cruck Store" align="right" />
+  <img src="https://lanyard.cnrad.dev/api/746700907248484393?hideTimestamp=true&idleMessage=Stream.Cruck.Store" align="right"/>
 </a>
 
-<h3 align="left"><u>Our WebSite:</u></h3>
+<h3 align="left" style="text-decoration: underline;"><u>Our WebSite:</u></h3>
 <p><a href="https://cruck.store" target="_blank">WebSite - Cruck Store</a></p>
 
-<h3 align="left"><u>Our Discord:</u>u></h3>
+<h3 align="left" style="text-decoration: underline;"><u>Our Discord:</u></h3>
 <p><a href="https://discord.gg/cruckstore" target="_blank">Discord - Cruck Store</a></p>
 
 💞️ We're looking for
   - Mapper FiveM
-  - Fullstack Developer
-  - Editor FiveM / Rockstar Editor (like quality of NoPixel Trailer)
+  - Fullstack Developer <i>(ViteJS for Front)</i>
+  - Editor FiveM <i>(With quality of NoPixel Trailer)</i>
+
+<!--
+<style>
+img {
+  margin-top: 50px;
+  padding-top: 10%;
+}
+<style>
+-->
