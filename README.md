@@ -15,11 +15,18 @@
 <h3 align="left" style="text-decoration: underline;"><u>Our Discord:</u></h3>
 <p><a href="https://discord.gg/cruckstore" target="_blank">Discord - Cruck Store</a></p>
 
-💞️ We're looking for
+
+💞️ We're looking for:
   - FiveM Mapper
   - Fullstack Developer <i>(ReactJS + ViteJS for FrontEnd)</i>
   - Editor FiveM <i>(With quality of NoPixel Trailer)</i>
 
+<br>
+
+💞️ We're working for:
+  - NightFall FA
+  - The Last Colony <i>(Apocalypse Server)<i>
+    
 <!--
 <style>
 img {
