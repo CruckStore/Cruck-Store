@@ -24,8 +24,8 @@
 <br>
 
 💞️ We're working for:
-  - NightFall FA
-  - The Last Colony <i>(Apocalypse Server)<i>
+  - NightFall FA <i>(Los Santos US French Server)<i>
+  - The Last Colony <i>(Apocalypse MultiLanguage Server)<i>
     
 <!--
 <style>
