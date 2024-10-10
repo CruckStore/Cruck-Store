@@ -16,8 +16,8 @@
 <p><a href="https://discord.gg/cruckstore" target="_blank">Discord - Cruck Store</a></p>
 
 💞️ We're looking for
-  - Mapper FiveM
-  - Fullstack Developer <i>(ViteJS for Front)</i>
+  - FiveM Mapper
+  - Fullstack Developer <i>(ReactJS + ViteJS for FrontEnd)</i>
   - Editor FiveM <i>(With quality of NoPixel Trailer)</i>
 
 <!--
