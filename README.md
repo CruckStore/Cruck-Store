@@ -19,11 +19,13 @@
 💞️ We're looking for:
   - FiveM Mapper
   - Fullstack Developer <i>(ReactJS + ViteJS for FrontEnd)</i>
-  - Editor FiveM <i>(With quality of NoPixel Trailer)</i>
+  - FiveM Video Editor <i>(With quality of NoPixel Trailer)</i>
 
 <br>
 
 💞️ We're working for:
+  - FiveM Store <i>(Cruck Store)
+  - Quasar Store (We Make Some Tuto Video for Quasar Store)
   - NightFall FA <i>(Los Santos US French Server)<i>
   - The Last Colony <i>(Apocalypse MultiLanguage Server)<i>
 
