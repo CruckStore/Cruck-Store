@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, We are @CruckStore</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , We are @CruckStore</h1>
 
 <p align="left"> 
   <a href="https://discord.gg/cruckstore" rel="nofollow"><img src="https://img.shields.io/discord/925836113065705552?color=success&label=Discord&style=flat-square"  style="max-width:100%;"></a>                   
@@ -6,7 +6,7 @@
 </p>
 
 <a href="https://discord.com/users/746700907248484393">
-  <img src="https://lanyard.cnrad.dev/api/746700907248484393?hideTimestamp=true&idleMessage=Stream.Cruck.Store" align="right"/>
+  <img src="https://lanyard.cnrad.dev/api/746700907248484393?hideTimestamp=true&idleMessage=www.cruck.store" align="right"/>
 </a>
 
 <h3 align="left" style="text-decoration: underline;"><u>Our WebSite:</u></h3>
@@ -16,14 +16,14 @@
 <p><a href="https://discord.gg/cruckstore" target="_blank">Discord - Cruck Store</a></p>
 
 
-💞️ We're looking for:
+<span><b>💞️ We're looking for:</b></span>
   - FiveM Mapper
   - Fullstack Developer <i>(ReactJS + ViteJS for FrontEnd)</i>
   - FiveM Video Editor <i>(With quality of NoPixel Trailer)</i>
 
 <br>
 
-💞️ We're working for:
+<span><b>💞️ We're working for:</b></span>
   - FiveM Store <i>(Cruck Store)
   - Quasar Store (We Make Some Tuto Video for Him)
   - NightFall FA <i>(Los Santos US French Server)<i>
@@ -56,8 +56,8 @@
 <h3 align="left" style="text-decoration: underline;">What are our Stats? (language we use most, number of commit, etc)</h3>
 
 <div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=cruckstore&show_icons=true&locale=en&theme=dark" alt="cruckstore" /></p><br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=cruckstore&theme=dark" alt="cruckstore" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=cruckstore&show_icons=true&locale=en&theme=react" alt="cruckstore" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=cruckstore&theme=react" alt="cruckstore" /></p>
 </div>
 
 
