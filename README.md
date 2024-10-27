@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, We are @CruckStore</h1>
 
 <p align="left"> 
-  <a href="https://discord.gg/cruckstore" rel="nofollow"><img src="https://img.shields.io/discord/925836113065705552?color=success&label=Discord&style=flat-square"  style="max-width:100%;"></a>
+  <a href="https://discord.gg/cruckstore" rel="nofollow"><img src="https://img.shields.io/discord/925836113065705552?color=success&label=Discord&style=flat-square"  style="max-width:100%;"></a>                   
   <img src="https://komarev.com/ghpvc/?username=CruckStore&label=Profile%20views&color=0e75b6&style=flat" alt="cruck store view profils" />
 </p>
 
@@ -25,7 +25,7 @@
 
 💞️ We're working for:
   - FiveM Store <i>(Cruck Store)
-  - Quasar Store (We Make Some Tuto Video for Quasar Store)
+  - Quasar Store (We Make Some Tuto Video for Him)
   - NightFall FA <i>(Los Santos US French Server)<i>
   - The Last Colony <i>(Apocalypse MultiLanguage Server)<i>
 
@@ -55,7 +55,13 @@
 
 <h3 align="left" style="text-decoration: underline;">What are our Stats? (language we use most, number of commit, etc)</h3>
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=CruckStore&theme=dark&hide_border=false)
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer"/>
+</p>
+
+<!-- No Public so cant view ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CruckStore&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)-->
 <!--
 <style>
 img {
