@@ -56,8 +56,24 @@
 <h3 align="left" style="text-decoration: underline;">What are our Stats? <i>(language we use most, number of commit, etc)</i></h3>
 
 <div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=cruckstore&show_icons=true&locale=en&theme=react" alt="cruckstore" /></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=cruckstore&theme=react" alt="cruckstore" /></p>
+<table width="100%" align="center">
+<tr>
+<td>
+  <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CruckStore&theme=react" alt="Profile Summary">
+</td>
+</tr>
+</table>
+
+<table width="100%" align="center">
+<tr>
+<td>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=CruckStore&show_icons=true&locale=en&theme=react" alt="GitHub Stats"/>
+</td>
+<td>
+  <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=CruckStore&theme=react" alt="Streak Stats"/>
+</td>
+</tr>
+</table>
 </div>
 
 
