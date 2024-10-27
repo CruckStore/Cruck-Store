@@ -1,8 +1,10 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , We are @CruckStore</h1>
 
 <p align="left"> 
-  <a href="https://discord.gg/cruckstore" rel="nofollow"><img src="https://img.shields.io/discord/925836113065705552?color=success&label=Discord&style=flat-square"  style="max-width:100%;"></a>                   
-  <img src="https://komarev.com/ghpvc/?username=CruckStore&label=Profile%20views&color=0e75b6&style=flat" alt="cruck store view profils" />
+  <a href="https://discord.gg/cruckstore" rel="nofollow"><img src="https://img.shields.io/discord/925836113065705552?color=success&label=Discord&style=react"  style="max-width:100%;"></a>                   
+  <img src="https://komarev.com/ghpvc/?username=CruckStore&label=Profile%20views&color=0e75b6&style=react" alt="View Profil" />
+  <img src="https://img.shields.io/github/followers/cruckstore?style=react" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/cruckstore?style=react" alt="GitHub Stars"/>
 </p>
 
 <a href="https://discord.com/users/746700907248484393">
