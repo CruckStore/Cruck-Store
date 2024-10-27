@@ -2,7 +2,7 @@
 
 <p align="left"> 
   <a href="https://discord.gg/cruckstore" rel="nofollow"><img src="https://img.shields.io/discord/925836113065705552?color=success&label=Discord&style=react"  style="max-width:100%;"></a>                   
-  <img src="https://komarev.com/ghpvc/?username=CruckStore&label=Profile%20views&color=0e75b6&style=react" alt="View Profil" />
+  <img src="https://komarev.com/ghpvc/?username=CruckStore&label=Profile%20views&color=0e75b6&style=react" alt="View Profil"/>
   <img src="https://img.shields.io/github/followers/cruckstore?style=react" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/cruckstore?style=react" alt="GitHub Stars"/>
 </p>
@@ -85,14 +85,16 @@
 </table>
 </div>
 
+<h3 align="left" style="text-decoration: underline;">Our Commit Line <i>(in animation)</i></h3>
+
+<div align="center">
+  <img src="https://ssr-contributions-svg.vercel.app/_/cruckstore?chart=3dbar&gap=0.2&scale=5&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=cyan&widget_size=large&colors=004B23,006D32,008B5E,00B074,00D29D,00F2B6,00FFD2,66FFE6&dark=true">
+</div>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&width" alt="Footer"/>
 </p>
-
-
-
-
 
 <!-- No Public so cant view ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CruckStore&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)-->
 <!--
