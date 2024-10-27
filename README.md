@@ -19,10 +19,9 @@
 
 
 <span><b>💞️ We're looking for:</b></span>
-  - FiveM Mapper
-  - Fullstack Developer <i>(ReactJS + ViteJS for FrontEnd)</i>
+  - FiveM Mapper <i>(Can Make IPL/Inclued Maps/Entire Maps)</i>
   <img align="right" src="https://github.com/CruckStore/Cruck-Store/blob/main/313450464-2bd05422-3a3b-4d7c-94a1-7cdb584c09d7.gif" alt="Profile Image" width="300"/>
-
+  - Fullstack Developer <i>(ReactJS + ViteJS for FrontEnd)</i>
   - FiveM Video Editor <i>(With quality of NoPixel Trailer)</i>
 
 <br>
