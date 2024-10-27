@@ -74,6 +74,13 @@
 </td>
 </tr>
 </table>
+<table>
+  <tr>
+    <td>
+       <img src="https://github-readme-activity-graph.vercel.app/graph?username=CruckStore&theme=github-dark&area=true" alt="Contribution Graph" />
+    </td>
+  </tr>
+</table>
 </div>
 
 
