@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header"/>
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , We are @CruckStore</h1>
 
 <p align="left"> 
@@ -91,9 +93,11 @@
   <img src="https://ssr-contributions-svg.vercel.app/_/cruckstore?chart=3dbar&gap=0.2&scale=5&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=cyan&widget_size=large&colors=001f3f,003566,004c99,0066cc,007fff,3399ff,66b2ff,99ccff&dark=true">
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&width" alt="Footer"/>
-</p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+
+
+
+
 
 <!-- No Public so cant view ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CruckStore&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)-->
 <!--
