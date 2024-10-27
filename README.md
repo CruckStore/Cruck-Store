@@ -30,7 +30,7 @@
   - The Last Colony <i>(Apocalypse MultiLanguage Server)<i>
 
 
-<h3 align="left" style="text-decoration: underline;">What we Use for Work? (language & software for work)</h3>
+<h3 align="left" style="text-decoration: underline;">What we Use for Work? <i>(language & software for work)</i></h3>
 
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
@@ -53,7 +53,7 @@
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
 </div>
 
-<h3 align="left" style="text-decoration: underline;">What are our Stats? (language we use most, number of commit, etc)</h3>
+<h3 align="left" style="text-decoration: underline;">What are our Stats? <i>(language we use most, number of commit, etc)</i></h3>
 
 <div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=cruckstore&show_icons=true&locale=en&theme=react" alt="cruckstore" /></p>
