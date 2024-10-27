@@ -55,11 +55,17 @@
 
 <h3 align="left" style="text-decoration: underline;">What are our Stats? (language we use most, number of commit, etc)</h3>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=CruckStore&theme=dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=CruckStore&theme=dark&hide_border=false)<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cruckstore&show_icons=true&locale=en&theme=dark" alt="cruckstore" /></p>
+
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&width" alt="Footer"/>
 </p>
+
+
+
+
 
 <!-- No Public so cant view ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CruckStore&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)-->
 <!--
