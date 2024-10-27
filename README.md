@@ -58,7 +58,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CruckStore&theme=dark&hide_border=false)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&width" alt="Footer"/>
 </p>
 
 <!-- No Public so cant view ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CruckStore&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)-->
